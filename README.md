@@ -1,6 +1,11 @@
 🤖 **AI Chatbot Assistant — Your Real-Time Conversational Partner** 🌟
+
 Welcome to the AI Chatbot Project!
 This is a full-stack AI chatbot designed to provide real-time, engaging conversations with users, powered by Node.js, React, and WebSocket for seamless interaction. Whether you want to learn something, chat for fun, or ask for help, this assistant is always ready.
+
+![image](https://github.com/user-attachments/assets/e77e0022-a5d5-49cf-817d-46d6b6e79923)
+
+![image](https://github.com/user-attachments/assets/122f25fe-27df-49f0-9173-a8668b211747)
 
 🚀 **Key Features**:
 - ⚡ Real-Time Conversations
